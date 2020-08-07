@@ -1,7 +1,7 @@
 # Hospital-Management-System
 ![Screenshot (122)](https://user-images.githubusercontent.com/68866722/89672309-17c26800-d902-11ea-9fc0-0330c3f0694a.png)
-![Screenshot (123)](https://user-images.githubusercontent.com/68866722/89672312-185afe80-d902-11ea-9fe5-fd88973aa39b.png)
 ![Screenshot (124)](https://user-images.githubusercontent.com/68866722/89672315-18f39500-d902-11ea-89d9-355bc010d179.png)
+![Screenshot (123)](https://user-images.githubusercontent.com/68866722/89672312-185afe80-d902-11ea-9fe5-fd88973aa39b.png)
 ![WhatsApp Image 2020-08-07 at 10 55 24 PM](https://user-images.githubusercontent.com/68866722/89672319-1a24c200-d902-11ea-9def-2e6d6e9b7b11.jpeg)
 ![Screenshot (118)](https://user-images.githubusercontent.com/68866722/89672300-15600e00-d902-11ea-9f94-275a9b48568c.png)
 ![Screenshot (117)](https://user-images.githubusercontent.com/68866722/89672298-14c77780-d902-11ea-9074-67fb262a88b4.png)
