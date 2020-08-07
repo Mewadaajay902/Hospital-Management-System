@@ -1,4 +1,12 @@
 # Hospital-Management-System
+
+A Desktop based application,through which we can manage the whole hospital just by one
+application.In this application we manage the employees,Docters,Receptionist everyone.
+This is OTP based application through which receptionist confirms the patient credential
+and manage whole appointments of Docters.
+
+
+
 ![Screenshot (124)](https://user-images.githubusercontent.com/68866722/89672315-18f39500-d902-11ea-89d9-355bc010d179.png)
 ![Screenshot (122)](https://user-images.githubusercontent.com/68866722/89672309-17c26800-d902-11ea-9fc0-0330c3f0694a.png)
 ![Screenshot (123)](https://user-images.githubusercontent.com/68866722/89672312-185afe80-d902-11ea-9fe5-fd88973aa39b.png)
