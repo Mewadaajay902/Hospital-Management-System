@@ -1,9 +1,12 @@
 # Hospital-Management-System
 
 A Desktop based application,through which we can manage the whole hospital just by one
-application.In this application we manage the employees,Docters,Receptionist everyone.
-This is OTP based application through which receptionist confirms the patient credential
-and manage whole appointments of Docters.
+application.In this application we manage all the details of an employees in hospital 
+such as Docters,Receptionist and everyone else. The primary function of this application
+is to add patient records by an receptionist and confirming it by an OTP based API.
+Through this application we can update and and delete the record of an patient,
+Docters and Employees.This application is also useful in showing all appointments
+of an docter in given period of time...
 
 
 
