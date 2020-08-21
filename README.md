@@ -20,5 +20,6 @@ of an docter in given period of time...
 ![Screenshot (152)](https://user-images.githubusercontent.com/68866722/90883180-f023d300-e3ca-11ea-8f63-79c7151ee63c.png)
 ![Screenshot (153)](https://user-images.githubusercontent.com/68866722/90883182-f1550000-e3ca-11ea-96f1-9fc8beee9368.png)
 ![Screenshot (154)](https://user-images.githubusercontent.com/68866722/90883183-f1ed9680-e3ca-11ea-9393-2d7ea675e52c.png)
+![Screenshot (156)](https://user-images.githubusercontent.com/68866722/90883453-73ddbf80-e3cb-11ea-99d2-b1a10028d709.png)
 ![Screenshot (121)](https://user-images.githubusercontent.com/68866722/89672306-1729d180-d902-11ea-9726-f80d64714893.png)
 
